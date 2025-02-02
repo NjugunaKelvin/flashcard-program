@@ -1,5 +1,3 @@
-Collecting workspace information
-
 # Learn French Flashcards
 
 This project is a simple flashcard application to help users learn French vocabulary. It uses the 
